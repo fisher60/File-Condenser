@@ -1,0 +1,5 @@
+folders/*
+!folders/.gitkeep
+
+output/*
+!output/.gitkeep
